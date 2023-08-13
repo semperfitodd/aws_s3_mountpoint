@@ -1,4 +1,5 @@
 # AWS S3 Mount Point with Terraform
+![architecture.png](images%2Farchitecture.png)
 This project provides a proof-of-concept (POC) to mount an AWS S3 bucket into an EC2 instance using Terraform. It sets up the necessary components including VPC, S3 bucket, IAM policies, EC2 key pair, and the EC2 instance with Amazon Linux. The S3 bucket is then mounted into the EC2 instance.
 
 ## Prerequisites
